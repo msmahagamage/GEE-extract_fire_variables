@@ -1,0 +1,1 @@
+# GEE-extract_fire_variables
